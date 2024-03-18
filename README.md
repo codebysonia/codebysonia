@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @codebysonia
+- 💞️ I’m looking to collaborate on exciting frontend technoligies
+- 📫 How to reach me thesonia07@gmail.com
+- 😄 Pronouns: she/her
